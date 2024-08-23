@@ -1,2 +1,2 @@
-# SteamDeck-I2C-MUX_Buffer
-I2C Multiplexer and Buffer mod for Valve's Steam Deck 
+# I2C Multiplexer/Buffer/Signal-Level-Converter mod for Valve's Steam Deck 
+
