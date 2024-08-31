@@ -38,6 +38,8 @@ A first diagram is pictured in figure 1.
 
 ![Figure 1: Schematic diagram of multiplexer](pictures/Schematic_I2C_Multiplexer.jpg "Figure 1: Schematic diagram of multiplexer")</br>Figure 1: Schematic diagram of multiplexer
 
+Although 8-channels are overkill, the TCA9548 I2C multiplexer IC was chosen because it is orders of magnitude cheaper on Aliexpress than the alternatives.
+
 ## Steam Deck LCD (rev. C/black mainboard cover)
 TBD
 
