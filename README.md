@@ -36,7 +36,7 @@ We can "hijack" those connections by e.g. an "interconnection board" which will 
 
 A first diagram is pictured in figure 1.
 
-![Figure 1: Schematic diagram of multiplexer](pictures/Schematic_I2C_Multiplexer.jpg?raw=true "Figure 1: Schematic diagram of multiplexer")</br>Figure 1: Schematic diagram of multiplexer
+![Figure 1: Schematic diagram of multiplexer](pictures/Schematic_I2C_Multiplexer.jpg "Figure 1: Schematic diagram of multiplexer")</br>Figure 1: Schematic diagram of multiplexer
 
 ## Steam Deck LCD (rev. C/black mainboard cover)
 TBD
