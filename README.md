@@ -34,6 +34,10 @@ On the Steam Deck, the rev. G audio board is connected to the mainboard via a 14
 
 We can "hijack" those connections by e.g. an "interconnection board" which will be connected to the vertical FFC-connector on the audio board via an off-the-shelf 8-pin (0.5mm spacing) FFC-cable. The FPC-cable for the microphone/brightness sensor can be connected to an FFC-connector on the interconnection board. The interconnection board will pass through the signals from the audio board to the microphone/brightness sensor FPC-cable. On the interconnection board, a I2C multiplexer is connected to the SDA, SCL, 1.8V and GND lines. Up to eight external devices can be attached to the interconnection board via two 8-Pin FFC-connectors.
 
+A first diagram is pictured in figure 1.
+
+![Figure 1: Schematic diagram of multiplexer](pictures/Schematic_I2C_Multiplexer.jpg?raw=true "Figure 1: Schematic diagram of multiplexer")</br>Figure 1: Schematic diagram of multiplexer
+
 ## Steam Deck LCD (rev. C/black mainboard cover)
 TBD
 
